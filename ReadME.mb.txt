@@ -25,6 +25,15 @@
 
 + VCS or Source code management
      - Distributed VCS
-         -git,mercurinsl
-     -remote(central)  VCS
+         - git,mercurinsl
+     - remote(central)  VCS
           
+
+###  Git
+   - git init
+   - git add filename
+   - git add filename1 filename  
+   -
+   -
+   -
+   -
