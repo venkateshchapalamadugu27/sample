@@ -33,7 +33,9 @@
    - git init
    - git add filename
    - git add filename1 filename  
-   -
-   -
-   -
-   -
+   - git add . (or) git add --all
+   - git status
+   - git commit(set congiguration)
+      - git commit -m "msg"
+   - git remote add origin<link>
+   - git push -u origin master
