@@ -39,3 +39,30 @@
       - git commit -m "msg"
    - git remote add origin<link>
    - git push -u origin master
+
+###  HTML5
+    - Hyper Text Markup Language
+    - Semantic elements
+       - header
+       - section
+       - article
+       - aside
+       - footer
+       - table
+    - Block Level Elements
+       - h1 to h6
+       - paragraph(p)
+       - div
+       - all semantic elements
+       - Text will start from newline
+    - Inline elements
+       - span
+       - img
+       - a
+       - nav  
+       - form
+       - input
+       - textarea
+       - legend
+       - sup
+       - sub
