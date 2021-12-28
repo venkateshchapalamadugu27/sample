@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors</title>
+    <style>
+        div p{
+            background-color: turquoise;
+            color: blue;
+        }
+        div > p{
+            background-color: gray;
+            color: hotpink;
+
+        }
+        div +p{
+            background-color: #ba55d3;
+            color: mediumvioletred;
+        }
+        section+p{
+            background-color: orange;
+            color: tomato;
+
+        }
+        div+h5{color: rgb(209, 44, 44);
+            font-size: xx-large;
+
+        }
+
+        div~p{
+            background-color: yellow;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div>
+        <p>Paragraph1</p>
+        <p>Paragraph2</p>
+        <div>
+            <p >Paragraph3</p>
+        </div>
+        <section >
+            <p>Paragraph6</p>
+            <p>Paragraph6</p>
+            <p>Paragraph6</p>
+        </section>
+        <p>Paragraph4</p>
+        <p>Paragraph5</p>
+
+    </div>
+    <h5>GFYSQFY</h5>
+    
+</body>
+</html>

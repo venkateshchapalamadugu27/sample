@@ -66,3 +66,47 @@
        - legend
        - sup
        - sub
+       - unorder list(ul)
+       - ordered list(ol)
+##### Reference Links
+- Flaticon  https://www.flaticon.com
+- contrast checker https://webaim.org/resources/contrastchecker/   
+Task:
+=====
+     
+       - Audio
+       - Vedio
+       - canvas
+       - progress
+       - datalist
+       - meter
+       - select
+
+#CSS
+ + cascading style sheets
+ +_ Types of CSS
+     - Inline CSS
+     - External CSS
+      
+  + Syntax of CSS
+   
+   ''' 
+   selector{
+          css properties
+   }  
+   '''
+#### selectors
+  + simple selectors
+     - By element Name
+     - Grouping selector(,)
+     - class selector
+     - id selector (#)
+
+  + Combinators   
+    + Descendent selector ()
+    + Child selector (>)
+    + Adjacent sibling selector (+)
+    + General sibling selector (~)
+  + Pseudo class selector]
+  + Pseudo element selector
+  + Attribute selector  
