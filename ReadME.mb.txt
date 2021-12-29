@@ -71,6 +71,7 @@
 ##### Reference Links
 - Flaticon  https://www.flaticon.com
 - contrast checker https://webaim.org/resources/contrastchecker/   
+- clor codes
 Task:
 =====
      
@@ -97,16 +98,52 @@ Task:
    '''
 #### selectors
   + simple selectors
+     - universal selector(*)
      - By element Name
      - Grouping selector(,)
      - class selector
      - id selector (#)
 
   + Combinators   
-    + Descendent selector ()
-    + Child selector (>)
+    + Descendent selector () {inside divisio}
+    + Child selector (>){child of division}
     + Adjacent sibling selector (+)
     + General sibling selector (~)
   + Pseudo class selector]
   + Pseudo element selector
   + Attribute selector  
+
+  ### Box Models
+   - margin
+   - boarder
+   - padding
+      - padding: 10px (for all sides}
+      - padding:10px 30px(10px for top and 30px for right)
+      -padding :10px 300px 50(10 for top,300 for left and right,50 for bottom)
+      -padding :10px 4px 4px 6px
+   - width
+   - 1rem=16px
+
+
+
+  ##### Flex-box
+   + display
+     - none
+     - Inline
+     - Block
+     - Inline-Block
+   + position
+    - static
+    - relatice
+    - absolute
+    - fixed
+    - sticky
+   +  align-content
+   + align-items
+   + align-itself
+#### Resonsive web design 
+#### Flex-box
+     - flex
+     -
+     -
+     -   
